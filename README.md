@@ -65,7 +65,7 @@ MeowMusic can be used with my custom <a href="https://github.com/Meowchestra/Whi
   <br><br><a><img src="https://i.imgur.com/FDlwtbe.png" /></a><br><br>
 * Paste the link copied into the available input box under "Custom Plugin Repositories".
 * Ensure the box to the right of the link is checked.
-  <br><br><a><img src="https://i.imgur.com/Ifjc3X5.png" height="180" /></a><br><br>
+  <br><br><a><img src="https://i.imgur.com/OyprlmR.png" height="180" /></a><br><br>
 * Press the "Save changes & close" icon in the bottom right of the settings window.
 * Navigate to the "All Plugins" tab inside the `/xlplugins` plugin browser and search for `Whiskers`.
 * Click on "Whiskers" and select "Install".

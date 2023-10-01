@@ -24,7 +24,7 @@
     <Product>MeowMusic</Product>
     <Authors>Meowchestra, MoogleTroupe, GiR_Zippo</Authors>
     <Copyright>Copyright © 2023</Copyright>
-    <Version>2.0.1.6</Version>
+    <Version>3.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
